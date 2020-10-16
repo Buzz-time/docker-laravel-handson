@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0cb1dcd5-bf7d-44ae-b088-d2c353e5c3f3" name="デフォルト変更リスト" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.env.example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602813036962</updated>
       <workItem from="1602813039182" duration="2580000" />
-      <workItem from="1602816250782" duration="158000" />
+      <workItem from="1602816250782" duration="1412000" />
     </task>
     <servers />
   </component>
@@ -112,6 +113,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="454" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602819623020">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="454" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.804@0.23.1440.804" timestamp="1602819623020" />
     <state x="1026" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602815478454">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
